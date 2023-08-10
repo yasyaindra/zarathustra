@@ -4,3 +4,9 @@ body {
   font-family: "Poppins";
   background-color: #f7f9fc;
 }
+
+.sidebar h4,
+.sidebar span,
+.sidebar i {
+  color: #fafafa;
+}
